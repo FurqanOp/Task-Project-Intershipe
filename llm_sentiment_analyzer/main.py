@@ -1,5 +1,5 @@
 from sentiment import get_sentiment
-print("imported Sentimentr")
+print("imported Sentiment")
 
 if __name__ == "__main__":
     reviews = [
