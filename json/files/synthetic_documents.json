@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "label": "business case",
+        "taxonomy": "TCO",
+        "content": "The Total Cost of Ownership (TCO) analysis reveals hidden costs associated with deploying and maintaining our IT infrastructure."
+    },
+    {
+        "id": 2,
+        "label": "business case",
+        "taxonomy": "business plan",
+        "content": "Our business plan includes a comprehensive market analysis, a detailed marketing strategy, and projected financials."
+    },
+    {
+        "id": 3,
+        "label": "business case",
+        "taxonomy": "business plan",
+        "content": "Our business plan includes a comprehensive market analysis, a detailed marketing strategy, and projected financials."
+    },
+    {
+        "id": 4,
+        "label": "business case",
+        "taxonomy": "business plan",
+        "content": "This business plan outlines the strategic direction of our company over the next five years, focusing on growth in the renewable energy sector."
+    },
+    {
+        "id": 5,
+        "label": "business case",
+        "taxonomy": "TCO",
+        "content": "The Total Cost of Ownership (TCO) analysis reveals hidden costs associated with deploying and maintaining our IT infrastructure."
+    },
+    {
+        "id": 6,
+        "label": "business case",
+        "taxonomy": "total cost of ownership",
+        "content": "This document emphasizes indirect costs and potential cost savings through optimized resource allocation."
+    },
+    {
+        "id": 7,
+        "label": "business case",
+        "taxonomy": "business plan",
+        "content": "This document highlights our mission, vision, and roadmap to achieve sustainable growth through product innovation."
+    },
+    {
+        "id": 8,
+        "label": "business case",
+        "taxonomy": "business plan",
+        "content": "This document highlights our mission, vision, and roadmap to achieve sustainable growth through product innovation."
+    },
+    {
+        "id": 9,
+        "label": "business case",
+        "taxonomy": "business plan",
+        "content": "This business plan outlines the strategic direction of our company over the next five years, focusing on growth in the renewable energy sector."
+    },
+    {
+        "id": 10,
+        "label": "business case",
+        "taxonomy": "business plan",
+        "content": "This business plan outlines the strategic direction of our company over the next five years, focusing on growth in the renewable energy sector."
+    }
+]

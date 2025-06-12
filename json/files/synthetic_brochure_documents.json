@@ -1,0 +1,62 @@
+[
+  {
+    "id": "brochure_doc_1",
+    "label": "brochure",
+    "category": "prospectus",
+    "content": "The prospectus in this brochure provides a thorough overview of educational opportunities and enrollment guidelines."
+  },
+  {
+    "id": "brochure_doc_2",
+    "label": "brochure",
+    "category": "booklet",
+    "content": "This comprehensive booklet within the brochure presents detailed information about our products and services."
+  },
+  {
+    "id": "brochure_doc_3",
+    "label": "brochure",
+    "category": "booklet",
+    "content": "This comprehensive booklet within the brochure presents detailed information about our products and services."
+  },
+  {
+    "id": "brochure_doc_4",
+    "label": "brochure",
+    "category": "cartel",
+    "content": "A bold and informative cartel format is used in this brochure to deliver messages in a clear and concise manner."
+  },
+  {
+    "id": "brochure_doc_5",
+    "label": "brochure",
+    "category": "prospectus",
+    "content": "The prospectus in this brochure provides a thorough overview of educational opportunities and enrollment guidelines."
+  },
+  {
+    "id": "brochure_doc_6",
+    "label": "brochure",
+    "category": "affiche",
+    "content": "This brochure includes an eye-catching affiche designed to promote the upcoming event with essential details."
+  },
+  {
+    "id": "brochure_doc_7",
+    "label": "brochure",
+    "category": "banner",
+    "content": "A vibrant banner is displayed prominently in this brochure to attract immediate attention to key highlights."
+  },
+  {
+    "id": "brochure_doc_8",
+    "label": "brochure",
+    "category": "placard",
+    "content": "The brochure showcases a placard that visually emphasizes important promotional messages."
+  },
+  {
+    "id": "brochure_doc_9",
+    "label": "brochure",
+    "category": "banner",
+    "content": "A vibrant banner is displayed prominently in this brochure to attract immediate attention to key highlights."
+  },
+  {
+    "id": "brochure_doc_10",
+    "label": "brochure",
+    "category": "flyer",
+    "content": "The brochure incorporates a creative flyer to quickly share information and contact details with the audience."
+  }
+]

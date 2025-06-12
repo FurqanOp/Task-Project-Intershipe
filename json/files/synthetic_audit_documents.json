@@ -1,0 +1,62 @@
+[
+  {
+    "id": "audit_doc_1",
+    "label": "audit report",
+    "category": "IT audit",
+    "content": "This audit assesses the security and integrity of information systems, networks, and data protection protocols."
+  },
+  {
+    "id": "audit_doc_2",
+    "label": "audit report",
+    "category": "operational audit",
+    "content": "The operational audit highlights process improvements and inefficiencies within core business functions."
+  },
+  {
+    "id": "audit_doc_3",
+    "label": "audit report",
+    "category": "IT audit",
+    "content": "This audit assesses the security and integrity of information systems, networks, and data protection protocols."
+  },
+  {
+    "id": "audit_doc_4",
+    "label": "audit report",
+    "category": "financial audit",
+    "content": "A detailed financial audit analyzing balance sheets, income statements, and cash flow data is included here."
+  },
+  {
+    "id": "audit_doc_5",
+    "label": "audit report",
+    "category": "IT audit",
+    "content": "This audit assesses the security and integrity of information systems, networks, and data protection protocols."
+  },
+  {
+    "id": "audit_doc_6",
+    "label": "audit report",
+    "category": "operational audit",
+    "content": "The operational audit highlights process improvements and inefficiencies within core business functions."
+  },
+  {
+    "id": "audit_doc_7",
+    "label": "audit report",
+    "category": "operational audit",
+    "content": "The operational audit highlights process improvements and inefficiencies within core business functions."
+  },
+  {
+    "id": "audit_doc_8",
+    "label": "audit report",
+    "category": "compliance report",
+    "content": "This section outlines the results of the compliance audit, assessing adherence to industry and legal standards."
+  },
+  {
+    "id": "audit_doc_9",
+    "label": "audit report",
+    "category": "internal audit",
+    "content": "This audit report evaluates the organization's internal processes and risk controls to ensure operational efficiency."
+  },
+  {
+    "id": "audit_doc_10",
+    "label": "audit report",
+    "category": "external audit",
+    "content": "An independent external audit has been conducted to verify the financial statements for regulatory compliance."
+  }
+]

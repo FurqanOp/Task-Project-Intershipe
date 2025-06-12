@@ -1,0 +1,62 @@
+[
+  {
+    "id": "doc_1",
+    "label": "Appendix",
+    "category": "references",
+    "content": "The appendix lists all the references cited throughout the document in a standard format."
+  },
+  {
+    "id": "doc_2",
+    "label": "Appendix",
+    "category": "supplementary material",
+    "content": "This appendix contains supplementary material that supports the main content, including additional charts and explanations."
+  },
+  {
+    "id": "doc_3",
+    "label": "Appendix",
+    "category": "data tables",
+    "content": "Detailed data tables included in this appendix provide a breakdown of statistical analyses."
+  },
+  {
+    "id": "doc_4",
+    "label": "Appendix",
+    "category": "footnotes",
+    "content": "Comprehensive footnotes included here elaborate on various textual references."
+  },
+  {
+    "id": "doc_5",
+    "label": "Appendix",
+    "category": "glossary",
+    "content": "A glossary of technical terms used in the document is provided in this appendix."
+  },
+  {
+    "id": "doc_6",
+    "label": "Appendix",
+    "category": "glossary",
+    "content": "A glossary of technical terms used in the document is provided in this appendix."
+  },
+  {
+    "id": "doc_7",
+    "label": "Appendix",
+    "category": "glossary",
+    "content": "A glossary of technical terms used in the document is provided in this appendix."
+  },
+  {
+    "id": "doc_8",
+    "label": "Appendix",
+    "category": "data tables",
+    "content": "Detailed data tables included in this appendix provide a breakdown of statistical analyses."
+  },
+  {
+    "id": "doc_9",
+    "label": "Appendix",
+    "category": "data tables",
+    "content": "Detailed data tables included in this appendix provide a breakdown of statistical analyses."
+  },
+  {
+    "id": "doc_10",
+    "label": "Appendix",
+    "category": "glossary",
+    "content": "A glossary of technical terms used in the document is provided in this appendix."
+  }
+]
